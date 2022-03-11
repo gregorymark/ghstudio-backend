@@ -19,23 +19,30 @@ const STRIPE_WEBHOOK_SECRET = process.env.STRIPE_WEBHOOK_SECRET || "";
 const plugins = [
   `medusa-fulfillment-manual`,
   `medusa-payment-manual`,
-  // Uncomment to add Stripe support.
-  // You can create a Stripe account via: https://stripe.com
-  // {
-  //   resolve: `medusa-payment-stripe`,
-  //   options: {
-  //     api_key: STRIPE_API_KEY,
-  //     webhook_secret: STRIPE_WEBHOOK_SECRET,
-  //   },
-  // },
+  {
+    resolve: `medusa-payment-stripe`,
+    options: {
+      api_key: STRIPE_API_KEY,
+      webhook_secret: STRIPE_WEBHOOK_SECRET,
+    },
+  },
+  {
+    resolve: `medusa-file-s3`,
+    options: {
+        s3_url: "https://ghstudio.s3.eu-west-2.amazonaws.com",
+        bucket: "ghstudio",
+        region: "eu-west-2",
+        access_key_id: "AKIAUWFPV3CX7YGGHCVP",
+        secret_access_key: process.env.AWS_S3_SECRET,
+    },
+  },
 ];
 
 module.exports = {
   projectConfig: {
-    // redis_url: REDIS_URL,
-    // For more production-like environment install PostgresQL
-    // database_url: DATABASE_URL,
-    // database_type: "postgres",
+    redis_url: REDIS_URL,
+    database_url: DATABASE_URL,
+    database_type: "postgres",
     database_database: "./medusa-db.sql",
     database_type: "sqlite",
     store_cors: STORE_CORS,
