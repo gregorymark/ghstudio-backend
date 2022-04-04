@@ -37,6 +37,18 @@ const plugins = [
       secret_access_key: process.env.AWS_S3_SECRET,
     },
   },
+  {
+    resolve: `medusa-plugin-sendgrid`,
+    options: {
+      api_key: process.env.SENDGRID_API_KEY,
+      from: `greg@greghannan.studio`,
+      order_placed_template: `d-9e6dd34482694f078c3c084777f4c18e`,
+      order_placed_template: `d-9e6dd34482694f078c3c084777f4c18e`,
+      order_cancelled_template: `d-9e6dd34482694f078c3c084777f4c18e`,
+      order_shipped_template: `d-9e6dd34482694f078c3c084777f4c18e`,
+      order_completed_template: `d-9e6dd34482694f078c3c084777f4c18e`,
+    },
+  },
 ];
 
 module.exports = {
@@ -44,8 +56,6 @@ module.exports = {
     redis_url: REDIS_URL,
     database_url: DATABASE_URL,
     database_type: "postgres",
-    // database_database: "./medusa-db.sql",
-    // database_type: "sqlite",
     store_cors: STORE_CORS,
     admin_cors: ADMIN_CORS,
   },
