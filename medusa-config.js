@@ -45,7 +45,6 @@ const plugins = [
       order_placed_template: `d-9e6dd34482694f078c3c084777f4c18e`,
       order_canceled_template: `d-0a46dffb0b324bd08e4a19485ebcf586`,
       order_shipped_template: `d-e2b96af512fb4a71bc60f1e049df637c`,
-      order_completed_template: `d-9e6dd34482694f078c3c084777f4c18e`,
     },
   },
 ];
