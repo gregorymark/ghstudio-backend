@@ -1,0 +1,58 @@
+{
+  "store": {
+    "name": "Greg Hannan Studio",
+    "currencies": ["gbp", "eur"],
+    "default_currency_code": "eur"
+  },
+  "users": [
+    {
+      "first_name": "Greg",
+      "last_name": "Hannan",
+      "email": "gregorymarkhannan@gmail.com",
+      "password": "6T4Z#@8yeMWMSZc"
+    }
+  ],
+  "regions": [
+    {
+      "id": "region-uk",
+      "name": "UK",
+      "currency_code": "gbp",
+      "tax_rate": 0,
+      "payment_providers": ["stripe"],
+      "fulfillment_providers": ["manual"],
+      "countries": ["gb"]
+    },
+    {
+      "id": "region-eu",
+      "name": "EU",
+      "currency_code": "eur",
+      "tax_rate": 0,
+      "payment_providers": ["stripe"],
+      "fulfillment_providers": ["manual"],
+      "countries": ["at", "be", "se", "lv", "sk", "si", "pt", "de", "dk", "fr", "es", "it", "bg", "hr", "cy", "cz", "ee", "fi", "gr", "ie", "hu", "lt", "lu", "mt", "nl", "pl", "ro"]
+    }
+  ],
+  "shipping_options": [
+    {
+      "name": "Standard",
+      "region_id": "region-uk",
+      "provider_id": "manual",
+      "data": {
+        "id": "manual-fulfillment"
+      },
+      "price_type": "flat_rate",
+      "amount": 500
+    },
+    {
+      "name": "Standard",
+      "region_id": "region-eu",
+      "provider_id": "manual",
+      "data": {
+        "id": "manual-fulfillment"
+      },
+      "price_type": "flat_rate",
+      "amount": 400
+    }
+  ],
+  "products": []
+}

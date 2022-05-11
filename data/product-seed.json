@@ -1,0 +1,708 @@
+{
+  "store": {
+    "name": "Greg Hannan Studio",
+    "currencies": ["gbp", "eur"],
+    "default_currency_code": "eur"
+  },
+  "users": [
+  ],
+  "regions": [
+  ],
+  "shipping_options": [
+  ],
+  "products": [
+    {
+      "title": "Dymchurch",
+      "subtitle": null,
+      "description": "The shore at Dymchurch, recalling Paul Nash. I made a trip back to where I grew up in Kent and wandered along the coast back to my childhood home. I was hoping for memories to be triggered by the location. I've made various works since that have sprouted from what's slowly become fertile ground.",
+      "handle": "dymchurch",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Dymchurch.jpeg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "The Shore at Ovingdean #1",
+      "subtitle": null,
+      "description": "The shore at Ovingdean, recalling Paul Nash. I made a trip back to where I grew up in Kent and wandered along the coast back to my childhood home. I was hoping for memories to be triggered by the location. I've made various works since that have sprouted from what's slowly become fertile ground.",
+      "handle": "the-shore-at-ovingdean-1",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/The+Shore+at+Ovingdean+01.jpg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Flesh Mirror",
+      "subtitle": null,
+      "description": "Approaching the erotic from an oblique angle under a watchful eye.",
+      "handle": "flesh-mirror",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Flesh+Mirror.jpg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Choreography on the Steel Frame Chair",
+      "subtitle": null,
+      "description": "I played a sort of game of musical chairs in order to create intimacy between bodies.",
+      "handle": "choreography-on-the-steel-frame-chair",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Choreography+on+the+Steel+Frame+Chair.png"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Choreography #2",
+      "subtitle": null,
+      "description": "I played a sort of game of musical chairs in order to create intimacy between bodies.",
+      "handle": "choreography-2",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Choreography+02.png"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Blue Still Life with Carrot",
+      "subtitle": null,
+      "description": "The original painting is made with palette knife, with colour spot painting in mind.",
+      "handle": "blue-still-life-with-carrot",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Blue+Still+Life+with+Carrot.jpg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Male Back with a Striped Duvet",
+      "subtitle": null,
+      "description": null,
+      "handle": "male-back-with-a-striped-duvet",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Male+Back+with+a+Striped+Duvet.jpg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Self Portrait with Fonte da Perdiz",
+      "subtitle": null,
+      "description": "After Lucian Freud.",
+      "handle": "self-portrait-with-fonte-da-perdiz",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Self+Portrait+with+Fonte+da+Perdiz.jpg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    },
+    {
+      "title": "Still Life with Moka, Pepper, Squash and Aubergine",
+      "subtitle": null,
+      "description": "The original painting is made with palette knife, with colour spot painting in mind.",
+      "handle": "still-life-with-moka-pepper-squash-and-aubergine",
+      "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
+      "is_giftcard": false,
+      "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Still+life+with+Moka%2C+Pepper%2C+Squash+and+Aubergine.jpg"],
+      "options": [
+        {
+          "title": "Size",
+          "values": ["A4", "A3", "A2"]
+        }
+      ],
+      "variants": [
+        {
+          "title": "A4",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 4000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 4500
+            }
+          ],
+          "options": [
+            {
+              "value": "A4"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A3",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 6000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 6500
+            }
+          ],
+          "options": [
+            {
+              "value": "A3"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        },
+        {
+          "title": "A2",
+          "prices": [
+            {
+              "currency_code": "gbp",
+              "amount": 8000
+            },
+            {
+              "currency_code": "eur",
+              "amount": 8500
+            }
+          ],
+          "options": [
+            {
+              "value": "A2"
+            }
+          ],
+          "inventory_quantity": 10,
+          "manage_inventory": true
+        }
+      ]
+    }
+  ]
+}
