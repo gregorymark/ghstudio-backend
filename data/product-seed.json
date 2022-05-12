@@ -4,12 +4,9 @@
     "currencies": ["gbp", "eur"],
     "default_currency_code": "eur"
   },
-  "users": [
-  ],
-  "regions": [
-  ],
-  "shipping_options": [
-  ],
+  "users": [],
+  "regions": [],
+  "shipping_options": [],
   "products": [
     {
       "title": "Dymchurch",
@@ -19,6 +16,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Dymchurch.jpeg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Dymchurch.jpeg",
       "options": [
         {
           "title": "Size",
@@ -96,6 +94,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/The+Shore+at+Ovingdean+01.jpg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/The+Shore+at+Ovingdean+01.jpg",
       "options": [
         {
           "title": "Size",
@@ -173,6 +172,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Flesh+Mirror.jpg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Flesh+Mirror.jpg",
       "options": [
         {
           "title": "Size",
@@ -250,6 +250,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Choreography+on+the+Steel+Frame+Chair.png"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Choreography+on+the+Steel+Frame+Chair.png",
       "options": [
         {
           "title": "Size",
@@ -327,6 +328,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Choreography+02.png"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Choreography+02.png",
       "options": [
         {
           "title": "Size",
@@ -404,6 +406,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Blue+Still+Life+with+Carrot.jpg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Blue+Still+Life+with+Carrot.jpg",
       "options": [
         {
           "title": "Size",
@@ -481,6 +484,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Male+Back+with+a+Striped+Duvet.jpg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Male+Back+with+a+Striped+Duvet.jpg",
       "options": [
         {
           "title": "Size",
@@ -558,6 +562,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Self+Portrait+with+Fonte+da+Perdiz.jpg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Self+Portrait+with+Fonte+da+Perdiz.jpg",
       "options": [
         {
           "title": "Size",
@@ -635,6 +640,7 @@
       "collection_id": "pcol_01G2SY6ZHMSK2VBCEPWXH2E2TS",
       "is_giftcard": false,
       "images": ["https://ghstudio.s3.eu-west-2.amazonaws.com/Still+life+with+Moka%2C+Pepper%2C+Squash+and+Aubergine.jpg"],
+      "thumbnail": "https://ghstudio.s3.eu-west-2.amazonaws.com/Still+life+with+Moka%2C+Pepper%2C+Squash+and+Aubergine.jpg",
       "options": [
         {
           "title": "Size",
