@@ -32,7 +32,7 @@ const plugins = [
       s3_url: "https://ghstudio.s3.eu-west-2.amazonaws.com",
       bucket: "ghstudio",
       region: "eu-west-2",
-      access_key_id: "AKIAUWFPV3CX7YGGHCVP",
+      access_key_id: process.env.AWS_S3_ID,
       secret_access_key: process.env.AWS_S3_SECRET,
     },
   },
